@@ -11,7 +11,7 @@ def display_header():
     header_text = """
     ===============================
     Auto Daily Claim $RWT Humanity Protocol
-    Bot created by: Hacker Boy K
+    Bot created by: Hacker Boy Kishan
     ===============================
     """
     print(Fore.CYAN + Style.BRIGHT + header_text + "\n")
